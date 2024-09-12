@@ -1,5 +1,4 @@
 # lmstudio
-![image](https://github.com/user-attachments/assets/d37ba654-6191-4246-89fc-1d5f36471c82)
 
 A new Flutter project.
 
